@@ -1,0 +1,60 @@
+[
+          
+   {
+      "categoria": "Artes",
+      "pregunta": "Nombre del escultor barroco español considerado como el principal representante de la llamada escuela castellana de escultura:",
+      "respuesta": "Gregorio Fernández",
+      "incorrecta1": "Alonso Cano",
+      "incorrecta2": "Borromini",
+      "incorrecta3": "Antonio Canova",
+      "imagen": "../../img/artes/nivel2/1.jpg",
+      "objectFit": "cover"
+      },
+   
+   {
+    "categoria": "Artes",
+    "pregunta": "¿Qué escultor neoclásico italiano es el autor de las tres gracias?",
+    "respuesta": "Antonio Canova",
+    "incorrecta1": "Arcimboldo",
+    "incorrecta2": "Jacques Louis David",
+    "incorrecta3": "Alonso Cano",
+    "imagen": "../../img/artes/nivel2/2.jpg",
+    "objectFit": "contain"
+    },
+
+
+        
+        {
+           "categoria": "Artes",
+        "pregunta": "¿Qué pintor romántico francés pintó en 1830 el cuadro la libertad guiando al pueblo?",
+        "respuesta": "Eugene Delacroix",
+        "incorrecta1": "Ingres",
+        "incorrecta2": "Courbet",
+        "incorrecta3": "Antonio Canova",
+        "imagen": "../../img/artes/nivel2/3.jpg",
+        "objectFit": "contain"
+        },
+        
+        {
+           "categoria": "Artes",
+        "pregunta": "¿Qué arquitecto estadounidense diseñó entre 1935 y 1939 la casa Kaufmann, más conocida como la casa de la cascada?",
+        "respuesta": "Frank Lloyd Wright",
+        "incorrecta1": "Mies van Der Rohe",
+        "incorrecta2": "Walter Gropius",
+        "incorrecta3": "Eugene Delacroix",
+        "imagen": "../../img/artes/nivel2/4.jpg",
+        "objectFit": "contain"
+        },
+ 
+        
+     {
+        "categoria": "Artes",
+        "pregunta": "¿En qué siglo vivió y trabajó el pintor y escultor español salvador Dalí?",
+        "respuesta": "Siglo XX",
+        "incorrecta1": "Siglo VII",
+        "incorrecta2": "Siglo IVV",
+        "incorrecta3": "Siglo XVII",
+        "imagen": "../../img/artes/nivel2/5.jpg",
+        "objectFit": "cover"
+        }
+]

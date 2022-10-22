@@ -1,0 +1,62 @@
+[
+   
+    {
+     "categoria": "Lengua y Literatura Castellana",
+     "pregunta": "¿Qué son los diptongos?",
+     "respuesta": "Grupo de dos vocales distintas y contiguas que se pronuncian en una sola sílaba",
+     "incorrecta1": "Interrupción en el espacio o en el tiempo",
+     "incorrecta2": "Grupo de tres vocales contiguas que se pronuncian en una sola sílaba",
+     "incorrecta3": "Folletos que se doblan con un único pliegue",
+     "imagen": "../../img/castellano/nivel1/1.png",
+     "objectFit": "cover"
+     },
+ 
+     
+     {
+         "categoria": "Lengua y Literatura Castellana",
+         "pregunta": "¿Qué son los gerundios?",
+         "respuesta": "Es la forma no personal o impersonal de un verbo",
+         "incorrecta1": "El escritor se preocupa de la estética del teto",
+         "incorrecta2": "Referencia a un término o a una parte anterior del discurso",
+         "incorrecta3": "La omisión de una o más palabras en una cláusula",
+         "imagen": "../../img/castellano/nivel1/2.png",
+         "objectFit": "cover"
+ 
+     },
+ 
+    
+    {
+     "categoria": "Lengua y Literatura Castellana",
+     "pregunta": "¿Cuál es el gentilicio de ucrania?",
+     "respuesta": "Ucraniano",
+     "incorrecta1": "Ucraniense",
+     "incorrecta2": "Europeo",
+     "incorrecta3": "Noruego",
+     "imagen": "../../img/castellano/nivel1/3.png",
+     "objectFit": "cover"
+     },
+ 
+     
+     {
+         "categoria": "Lengua y Literatura Castellana",
+         "pregunta": "¿Qué es un texto instructivo?",
+         "respuesta": "Son los que, mediante instrucciones, nos enseñan a realizar algo",
+         "incorrecta1": "Son aquellos que expresan sentimiento e ideas a partir del uso del lenguaje poético",
+         "incorrecta2": "Palabras que se anteponen a un grupo de letras",
+         "incorrecta3": "Se refiere a toda suerte de relatos de ficción o relatos simbólicos",
+         "imagen": "../../img/castellano/nivel1/4.jpg",
+         "objectFit": "cover"
+         },
+ 
+         
+         {
+            "categoria": "Lengua y Literatura Castellana",
+         "pregunta": "¿Qué es un texto expositivo?",
+         "respuesta": "Son aquellos textos que buscan exponer información, ideas y conceptos de manera clara al lector",
+         "incorrecta1": "Son textos dramáticos aquellos destinados a su representación escénica",
+         "incorrecta2": "Preparación mediata o inmediata",
+         "incorrecta3": "Son aquellos en los que se desarrollan teorías y conceptos",
+         "imagen": "../../img/castellano/nivel1/5.png",
+         "objectFit": "cover"
+         }
+        ] 

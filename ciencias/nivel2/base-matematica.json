@@ -1,0 +1,59 @@
+[
+   
+   {
+    "categoria": "Matemáticas",
+    "pregunta": "¿Cual es la representación gráfica del número nueve mil treinta y seis?",
+    "respuesta": "9.036",
+    "incorrecta1": "936",
+    "incorrecta2": "90.036",
+    "incorrecta3": "9.000 36",
+    "imagen": "../../img/matematica/nivel2/1.jpg",
+    "objectFit": "cover"
+    },
+
+
+        
+        {
+           "categoria": "Matemáticas",
+        "pregunta": "¿Qué cantidad expresa el número romano V ?",
+        "respuesta": "Cinco",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Diez",
+        "incorrecta3": "Siete",
+        "imagen": "../../img/matematica/nivel2/2.jpg",
+        "objectFit": "cover"
+        },
+        
+        {
+           "categoria": "Matemáticas",
+        "pregunta": "¿Qué número resulta si divides 56 entre 7?",
+        "respuesta": "8",
+        "incorrecta1": "7",
+        "incorrecta2": "9",
+        "incorrecta3": "12",
+        "imagen": "../../img/matematica/nivel2/3.jpg",
+        "objectFit": "cover"
+        },
+        
+        {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuál es el número anterior a 1000?",
+        "respuesta": "999",
+        "incorrecta1": "1001",
+        "incorrecta2": "900",
+        "incorrecta3": "990",
+        "imagen": "../../img/matematica/nivel2/4.jpg",
+        "objectFit": "cover"
+        },
+        
+     {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cómo escribirías en cifras seiscientos veinticinco mil doscientos dos?",
+        "respuesta": "625.202",
+        "incorrecta1": "6.025.202",
+        "incorrecta2": "600 25.202",
+        "incorrecta3": "60.025.202",
+        "imagen": "../../img/matematica/nivel2/5.jpg",
+        "objectFit": "cover"
+        }
+]

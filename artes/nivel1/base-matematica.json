@@ -1,0 +1,64 @@
+[
+   
+   {
+    "categoria": "Artes",
+    "pregunta": "¿A qué etapa de la historia del arte pertenece la victoria de samotracia?",
+    "respuesta": "Arte griego (periodo helenístico)",
+    "incorrecta1": "Arte romano",
+    "incorrecta2": "Arte románico",
+    "incorrecta3": "Arte espontaneo",
+    "imagen": "../../img/artes/nivel1/1.jpg",
+    "objectFit": "contain"
+    },
+
+    
+    {
+        "categoria": "Artes",
+        "pregunta": "¿En qué ciudad romana se conserva el arco de tito, levantado en el siglo I d.C?",
+        "respuesta": "Roma",
+        "incorrecta1": "París",
+        "incorrecta2": "Mérida",
+        "incorrecta3": "Madrid",
+        "imagen": "../../img/artes/nivel1/2.jpg",
+        "objectFit": "contain"
+
+    },
+
+   
+   {
+    "categoria": "Artes",
+    "pregunta": "¿Cuál de las siguientes iglesias no pertenece al estilo románico?",
+    "respuesta": "Saint Chapelle de París",
+    "incorrecta1": "San martín de Frómista",
+    "incorrecta2": "Catedral de Santiago de Compostela",
+    "incorrecta3": "Roger van Der Weyden",
+    "imagen": "../../img/artes/nivel1/3.jpg",
+    "objectFit": "contain"
+    },
+
+    
+    {
+        "categoria": "Artes",
+        "pregunta": "Nombre del pintor italiano que realizó hacia 1305 el famoso ciclo de frescos que decoran la capilla de los Scrovegni en Padua:",
+        "respuesta": "Giotto",
+        "incorrecta1": "Jan van Eyck",
+        "incorrecta2": "Roger van Der Weyden",
+        "incorrecta3": "San Martín de Frómista",
+        "imagen": "../../img/artes/nivel1/4.jpg",
+        "objectFit": "contain"
+        },
+
+        
+        {
+           "categoria": "Artes",
+        "pregunta": "Nombre que diseñó en la Florencia del Quattrocento, la fachada de la iglesia de santa maría Novella y el palacio Rucellai:",
+        "respuesta": "Leon Battista Alberti",
+        "incorrecta1": "Masaccio",
+        "incorrecta2": "Donatello",
+        "incorrecta3": "Jan Van Eyck",
+        "imagen": "../../img/artes/nivel1/5.jpg",
+        "objectFit": "contain"
+        }
+  
+               
+]

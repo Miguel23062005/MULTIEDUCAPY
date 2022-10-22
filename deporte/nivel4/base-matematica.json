@@ -1,0 +1,65 @@
+[
+   
+    {
+     "categoria": "Matemáticas",
+     "pregunta": "¿Como se resuelve esta operación?",
+     "respuesta": "2",
+     "incorrecta1": "4",
+     "incorrecta2": "16",
+     "incorrecta3": "0",
+     "imagen": "../../img/matematica/nivel4/1.jpg",
+     "objectFit": "cover"
+     },
+ 
+     
+     {
+         "categoria": "Matemáticas",
+         "pregunta": " La raíz cuadrada de 36 es: ...",
+         "respuesta": "6",
+         "incorrecta1": "3",
+         "incorrecta2": "7",
+         "incorrecta3": "8",
+         "imagen": "../../img/matematica/nivel4/2.jpg",
+         "objectFit": "cover"
+ 
+     },
+ 
+    
+    {
+     "categoria": "Matemáticas",
+     "pregunta": "¿Cuanto es la raiz cuadrada de 16 ?",
+     "respuesta": "4",
+     "incorrecta1": "6",
+     "incorrecta2": "8",
+     "incorrecta3": "3",
+     "imagen": "../../img/matematica/nivel4/3.jpg",
+     "objectFit": "cover"
+     },
+ 
+     
+     {
+         "categoria": "Matemáticas",
+         "pregunta": "Resuelve esta operación...",
+         "respuesta": "1",
+         "incorrecta1": "-1",
+         "incorrecta2": "2",
+         "incorrecta3": "4",
+         "imagen": "../../img/matematica/nivel4/4.png",
+         "objectFit": "cover"
+         },
+ 
+         
+         {
+            "categoria": "Matemáticas",
+         "pregunta": "La solución a este problema es: ...",
+         "respuesta": "92",
+         "incorrecta1": "180",
+         "incorrecta2": "85",
+         "incorrecta3": "10",
+         "imagen": "../../img/matematica/nivel4/5.jpg",
+         "objectFit": "cover"
+         }
+         
+       
+                
+ ]

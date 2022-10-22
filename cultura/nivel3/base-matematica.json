@@ -1,0 +1,69 @@
+[
+  
+    
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Como se escribe este número?",
+        "respuesta": "Seis mil ciento setenta y cuatro",
+        "incorrecta1": "Seis mil cien setenta y cuatro",
+        "incorrecta2": "Seis mil ciento sesenta y cuatro",
+        "incorrecta3": "Seis mil ciento setenta",
+        "imagen": "../../img/matematica/nivel3/1.png",
+        "objectFit": "cover"
+
+    },
+
+   
+   {
+    "categoria": "Matemáticas",
+    "pregunta": "Aproxima el número 58 a la decena",
+    "respuesta": "60",
+    "incorrecta1": "50",
+    "incorrecta2": "55",
+    "incorrecta3": "48",
+    "imagen": "../../img/matematica/nivel3/2.jpg",
+    "objectFit": "contain"
+    },
+
+    
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Escribe el número ordinal trigésimo quinto en cifras",
+        "respuesta": "35",
+        "incorrecta1": "135",
+        "incorrecta2": "25",
+        "incorrecta3": "305",
+        "imagen": "../../img/matematica/nivel3/3.png",
+        "objectFit": "cover"
+        },
+
+        
+       
+     {
+        "categoria": "Matemáticas",
+        "pregunta": "Para calcular cuánto es un tercio de 3996,¿qué tienes que hacer?",
+        "respuesta": "Dividir entre tres",
+        "incorrecta1": "Multiplicar por tres",
+        "incorrecta2": "Restar tres",
+        "incorrecta3": "Sumar tres",
+        "imagen": "../../img/matematica/nivel3/4.png",
+        "objectFit": "contain"
+        },
+        
+    
+
+     {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué hora es si, tanto la manilla pequeña del reloj como la grande están en las 3?",
+        "respuesta": "Las tres y cuarto",
+        "incorrecta1": "Las tres en punto",
+        "incorrecta2": "Las tres y media",
+        "incorrecta3": " Las tres menos cuarto",
+        "imagen": "../../img/matematica/nivel3/5.jpg",
+        "objectFit": "cover"
+        }
+   
+        
+   
+               
+]

@@ -1,0 +1,62 @@
+[
+   
+    {
+     "categoria": "Lengua y Literatura Castellana",
+     "pregunta": "Poema de gran extensión en el que se narran hechos trascendentales para la historia de un pueblo",
+     "respuesta": "Epopeya",
+     "incorrecta1": "Poesía",
+     "incorrecta2": "Oda",
+     "incorrecta3": "Cantar de gesta",
+     "imagen": "../../img/castellano/nivel1/1.png",
+     "objectFit": "cover"
+     },
+ 
+     
+     {
+         "categoria": "Lengua y Literatura Castellana",
+         "pregunta": "Narración más extensa y compleja en cuya trama se suceden y entrelazan distintos conflictos que están protagonizados por personajes muy elaborados",
+         "respuesta": "Cuento",
+         "incorrecta1": "Oda",
+         "incorrecta2": "Mito",
+         "incorrecta3": "Novela",
+         "imagen": "../../img/castellano/nivel1/2.png",
+         "objectFit": "cover"
+ 
+     },
+ 
+    
+    {
+     "categoria": "Lengua y Literatura Castellana",
+     "pregunta": "¿Cuál sería el sinónimo de la palabra “persistir”?",
+     "respuesta": "Insistir",
+     "incorrecta1": "Renunciar",
+     "incorrecta2": "Permanecerían",
+     "incorrecta3": "Durarian",
+     "imagen": "../../img/castellano/nivel1/3.png",
+     "objectFit": "cover"
+     },
+ 
+     
+     {
+         "categoria": "Lengua y Literatura Castellana",
+         "pregunta": "¿Qué es un prefijo?",
+         "respuesta": "Palabras que se anteponen a un grupo de letras y hacen cambiar el su significado",
+         "incorrecta1": "Palabras que se anteponen a un grupo de letras y su significado no cambia",
+         "incorrecta2": "Palabras que se anteponen a un grupo de letras",
+         "incorrecta3": "Palabras que de un grupo de letras",
+         "imagen": "../../img/castellano/nivel1/4.jpg",
+         "objectFit": "cover"
+         },
+ 
+         
+         {
+            "categoria": "Lengua y Literatura Castellana",
+         "pregunta": "'Qué es la exposición oral?",
+         "respuesta": "Es la presentación en voz alta del contenido de un tema",
+         "incorrecta1": "Técnica de dicción y conocimiento",
+         "incorrecta2": "Preparación mediata o inmediata",
+         "incorrecta3": "Está basada en la lectura, el estudio, charlas",
+         "imagen": "../../img/castellano/nivel1/5.png",
+         "objectFit": "cover"
+         }
+        ] 

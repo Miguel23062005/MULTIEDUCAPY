@@ -1,0 +1,64 @@
+[
+   
+   {
+    "categoria": "Lengua y Literatura Castellana",
+    "pregunta": "Un padre llama a su hijo: ha llegado juan. ¿qué función del lenguaje oral se produce?",
+    "respuesta": "Enunciativa",
+    "incorrecta1": "Metalingüística",
+    "incorrecta2": "Poética",
+    "incorrecta3": "Fática",
+    "imagen": "../../img/castellano/nivel1/1.png",
+    "objectFit": "cover"
+    },
+
+    
+    {
+        "categoria": "Lengua y Literatura Castellana",
+        "pregunta": "Cuáles son las fases de un proyecto de trabajo.",
+        "respuesta": "Fase de preparación, fase de realización y fase de evaluación",
+        "incorrecta1": "Fase de preparación, fase de realización y fase de representación de la tarea",
+        "incorrecta2": "Fase de preparación, fase de evaluación y fase de representación de la tarea",
+        "incorrecta3": "Fase de preparación, fase de proceso y fase de sistematizar",
+        "imagen": "../../img/castellano/nivel1/2.png",
+        "objectFit": "cover"
+
+    },
+
+   
+   {
+    "categoria": "Lengua y Literatura Castellana",
+    "pregunta": "Figura retórica que consiste en la relación de semejanza entre seres",
+    "respuesta": "Comparación",
+    "incorrecta1": "Imagen",
+    "incorrecta2": "Antítesis",
+    "incorrecta3": "Hipérbole",
+    "imagen": "../../img/castellano/nivel1/3.png",
+    "objectFit": "cover"
+    },
+
+    
+    {
+        "categoria": "Lengua y Literatura Castellana",
+        "pregunta": "Relato breve en el que se narra una acción sencilla. Puede ser popular o de autor.",
+        "respuesta": "Cuento",
+        "incorrecta1": "Fábula",
+        "incorrecta2": "Leyenda",
+        "incorrecta3": "Mito",
+        "imagen": "../../img/castellano/nivel1/4.jpg",
+        "objectFit": "cover"
+        },
+
+        
+        {
+           "categoria": "Lengua y Literatura Castellana",
+        "pregunta": "Narración que se presenta como una historia en la que se mezclan lo real y lo imaginario, y generalmente relacionada con un lugar, un elemento de la naturaleza, un personaje o un acontecimiento concreto",
+        "respuesta": "Leyenda",
+        "incorrecta1": "Novela",
+        "incorrecta2": "Cuento",
+        "incorrecta3": "Epopeya",
+        "imagen": "../../img/castellano/nivel1/5.png",
+        "objectFit": "cover"
+        }
+  
+               
+]

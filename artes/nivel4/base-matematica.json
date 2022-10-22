@@ -1,0 +1,65 @@
+[
+   
+    {
+     "categoria": "Artes",
+     "pregunta": "La línea se define como:",
+     "respuesta": "Una secuencia de puntos",
+     "incorrecta1": "Una mancha larga",
+     "incorrecta2": "Un trazo indefinido",
+     "incorrecta3": "Una raya sin definir",
+     "imagen": "../../img/artes/nivel4/1.jpg",
+     "objectFit": "contain"
+     },
+ 
+     
+     {
+         "categoria": "Artes",
+         "pregunta": "Una obra de arte es",
+         "respuesta": "Una creación humana que comunica",
+         "incorrecta1": "Un producto de la naturaleza",
+         "incorrecta2": "Una pieza de museo",
+         "incorrecta3": "Algo que no tiene imaginación",
+         "imagen": "../../img/artes/nivel4/2.jpg",
+         "objectFit": "cover"
+ 
+     },
+ 
+    
+    {
+     "categoria": "Artes",
+     "pregunta": "Los elementos conceptuales básicos de la forma son",
+     "respuesta": "El punto, la línea y el plano",
+     "incorrecta1": "La textura, el sonido y el punto",
+     "incorrecta2": "El color, la línea y el volumen",
+     "incorrecta3": "El punto, la coma y punto y coma",
+     "imagen": "../../img/artes/nivel4/3.jpg",
+     "objectFit": "cover"
+     },
+ 
+     
+     {
+         "categoria": "Artes",
+         "pregunta": "¿Cuál es la diferencia entre pintura y dibujo?",
+         "respuesta": "El dibujo traza líneas para representar una forma",
+         "incorrecta1": "El dibujo no representa el efecto de volumen",
+         "incorrecta2": "El dibujo no utiliza color para expresar una forma",
+         "incorrecta3": "El dibujo es un arte y la pintura no lo es",
+         "imagen": "../../img/artes/nivel4/4.jpg",
+         "objectFit": "contain"
+         },
+ 
+         
+         {
+            "categoria": "Artes",
+         "pregunta": "La saturación del color consiste en",
+         "respuesta": "La ausencia de blanco",
+         "incorrecta1": "La neutralidad de un color",
+         "incorrecta2": "La mezcla para obtener el color negro",
+         "incorrecta3": "La pigmentación de un color",
+         "imagen": "../../img/artes/nivel4/5.jpg",
+         "objectFit": "cover"
+         }
+         
+       
+                
+ ]

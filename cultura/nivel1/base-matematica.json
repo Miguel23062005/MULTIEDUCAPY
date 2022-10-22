@@ -1,0 +1,64 @@
+[
+   
+   {
+    "categoria": "Cultura",
+    "pregunta": "¿Qué es el guaraní?",
+    "respuesta": "Moneda y Lengua Oficial",
+    "incorrecta1": "El gentilicio de los paraguayos",
+    "incorrecta2": "El capital de país",
+    "incorrecta3": "La región del norte",
+    "imagen": "../../img/cultura/nivel1/1.jpg",
+    "objectFit": "cover"
+    },
+
+    
+    {
+        "categoria": "Cultura",
+        "pregunta": "¿Qué otro país recibe electricidad de Itapú?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Uruguay",
+        "incorrecta3": "Colombia",
+        "imagen": "../../img/cultura/nivel1/2.jpg",
+        "objectFit": "cover"
+
+    },
+
+   
+   {
+    "categoria": "Cultura",
+    "pregunta": "¿Quién Augusto Roa Bastos?",
+    "respuesta": "Un famoso escritor paraguayo",
+    "incorrecta1": "Un cantante y compositor paraguayo",
+    "incorrecta2": "Un escritor boliviano",
+    "incorrecta3": "Presidente del Paraguay",
+    "imagen": "../../img/cultura/nivel1/3.jpg",
+    "objectFit": "contain"
+    },
+
+    
+    {
+        "categoria": "Cultura",
+        "pregunta": "Los creadores de la zarzuela paraguaya fueron",
+        "respuesta": "Manuel Frutos Pané y Juan Carlos Moreno",
+        "incorrecta1": "Emilio Bobadilla Cáceres y Herminio Giménez",
+        "incorrecta2": "Roque Centurión Miranda y Julio Correa",
+        "incorrecta3": "Demetrio Ortiz y Florentín Gíménez",
+        "imagen": "../../img/cultura/nivel1/4.jpg",
+        "objectFit": "contain"
+        },
+
+        
+        {
+           "categoria": "Cultura",
+        "pregunta": "Violaciones, saqueos, espanto, latrocinio fueron crímenes cometidos durante...",
+        "respuesta": "La guerra civil, 1947",
+        "incorrecta1": "La primavera democrática, 1946",
+        "incorrecta2": "La guerra contra la triple alianza, 1865 a 1870",
+        "incorrecta3": "La guerra del chaco, 1932 a 1935",
+        "imagen": "../../img/cultura/nivel1/5.jpg",
+        "objectFit": "cover"
+        }
+  
+               
+]

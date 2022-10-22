@@ -1,0 +1,64 @@
+[
+   
+   {
+    "categoria": "Lengua y Literatura Castellana",
+    "pregunta": "El conjunto de signos verbales(orales y escritos) y reglas que forman un código que permite comunicarse a los miembros de una comunidad concreta, se denomina:",
+    "respuesta": "Lengua",
+    "incorrecta1": "Lenguaje",
+    "incorrecta2": "Habla",
+    "incorrecta3": "Mensaje",
+    "imagen": "../../img/castellano/nivel1/1.png",
+    "objectFit": "cover"
+    },
+
+    
+    {
+        "categoria": "Lengua y Literatura Castellana",
+        "pregunta": "Capacidad que tiene el hombre para comunicarse con los démas a tráves de signos",
+        "respuesta": "Lenguaje",
+        "incorrecta1": "Código",
+        "incorrecta2": "Habla",
+        "incorrecta3": "Mensaje",
+        "imagen": "../../img/castellano/nivel1/2.png",
+        "objectFit": "cover"
+
+    },
+
+   
+   {
+    "categoria": "Lengua y Literatura Castellana",
+    "pregunta": "Código sería un conjunto de:",
+    "respuesta": "Fonemas y reglas",
+    "incorrecta1": "Lexema y raíz",
+    "incorrecta2": "Lexemas y reglas",
+    "incorrecta3": "Palabras y reglas",
+    "imagen": "../../img/castellano/nivel1/3.png",
+    "objectFit": "cover"
+    },
+
+    
+    {
+        "categoria": "Lengua y Literatura Castellana",
+        "pregunta": "Conjunto de palabras que acompañan a un término dado, que complementan y aclaran su significado",
+        "respuesta": "Contexto Lingüistico",
+        "incorrecta1": "Contexto situacional",
+        "incorrecta2": "Mensaje",
+        "incorrecta3": "Código",
+        "imagen": "../../img/castellano/nivel1/4.jpg",
+        "objectFit": "cover"
+        },
+
+        
+        {
+           "categoria": "Lengua y Literatura Castellana",
+        "pregunta": "Es el que señala los hechos objetivos, intentando informar",
+        "respuesta": "Informatica, representativa o referencial",
+        "incorrecta1": "Expresiva o emotiva",
+        "incorrecta2": "Conativa fática o de contacto lúdica",
+        "incorrecta3": "Poética o estética",
+        "imagen": "../../img/castellano/nivel1/5.png",
+        "objectFit": "cover"
+        }
+  
+               
+]

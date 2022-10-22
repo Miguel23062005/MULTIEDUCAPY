@@ -1,0 +1,69 @@
+[
+  
+    
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Quién pintó ''El grito''?",
+        "respuesta": "Edvard Münch",
+        "incorrecta1": "Leonardo da Vinchi",
+        "incorrecta2": "Millet",
+        "incorrecta3": "Fra Angélico",
+        "imagen": "../../img/artes/nivel3/1.jpg",
+        "objectFit": "cover"
+
+    },
+
+   
+   {
+    "categoria": "Artes",
+    "pregunta": "Los colores primarios son:",
+    "respuesta": "Amarillo, rojo y azul",
+    "incorrecta1": "Blanco, negro y gris",
+    "incorrecta2": "amarillo, verde y azul",
+    "incorrecta3": "Negro, banco y rojo",
+    "imagen": "../../img/artes/nivel3/2.jpg",
+    "objectFit": "contain"
+    },
+
+    
+    {
+        "categoria": "Artes",
+        "pregunta": "Los colores fríos son:",
+        "respuesta": "Azules, verdes y violetas",
+        "incorrecta1": "Negro, blanco y gris",
+        "incorrecta2": "Amarillos, verdes y violetas",
+        "incorrecta3": "Rojo, blanco y negro",
+        "imagen": "../../img/artes/nivel3/3.jpg",
+        "objectFit": "cover"
+        },
+
+        
+       
+     {
+        "categoria": "Artes",
+        "pregunta": "Los colores cálidos son:",
+        "respuesta": "Rojos, naranjas y amarillos",
+        "incorrecta1": "Verdes, azules y violetas",
+        "incorrecta2": "Rojos, violetas y verdes",
+        "incorrecta3": "Amarillo, verde y negro",
+        "imagen": "../../img/artes/nivel3/4.jpg",
+        "objectFit": "contain"
+        },
+        
+    
+
+     {
+        "categoria": "Artes",
+        "pregunta": "Un boceto es:",
+        "respuesta": "Un dibujo preliminar",
+        "incorrecta1": "Un dibujo acabado",
+        "incorrecta2": "Un dibujo a color",
+        "incorrecta3": "Un dibujo bien elaborado",
+        "imagen": "../../img/artes/nivel3/5.jpg",
+        "objectFit": "cover"
+        }
+   
+        
+   
+               
+]

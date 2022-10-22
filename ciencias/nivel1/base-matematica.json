@@ -1,0 +1,64 @@
+[
+   
+   {
+    "categoria": "Matemáticas",
+    "pregunta": "¿Cuanto es -2 + 5?",
+    "respuesta": "3",
+    "incorrecta1": "-3",
+    "incorrecta2": "7",
+    "incorrecta3": "-7",
+    "imagen": "../../img/matematica/nivel1/1.png",
+    "objectFit": "cover"
+    },
+
+    
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuanto es 2 a la quinta potencia menos 2 al cubo?",
+        "respuesta": "24",
+        "incorrecta1": "0",
+        "incorrecta2": "40",
+        "incorrecta3": "32",
+        "imagen": "../../img/matematica/nivel1/2.png",
+        "objectFit": "cover"
+
+    },
+
+   
+   {
+    "categoria": "Matemáticas",
+    "pregunta": "¿Cuanto es 5 al cuadrado menos 3 al cuadrado?",
+    "respuesta": "16",
+    "incorrecta1": "2",
+    "incorrecta2": "8",
+    "incorrecta3": "25",
+    "imagen": "../../img/matematica/nivel1/3.png",
+    "objectFit": "cover"
+    },
+
+    
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuanto es 2x2?",
+        "respuesta": "4",
+        "incorrecta1": "8",
+        "incorrecta2": "0",
+        "incorrecta3": "6",
+        "imagen": "../../img/matematica/nivel1/4.jpg",
+        "objectFit": "cover"
+        },
+
+        
+        {
+           "categoria": "Matemáticas",
+        "pregunta": "Resuelve el siguiente problema",
+        "respuesta": "4",
+        "incorrecta1": "-4",
+        "incorrecta2": "15",
+        "incorrecta3": "20",
+        "imagen": "../../img/matematica/nivel1/5.png",
+        "objectFit": "cover"
+        }
+  
+               
+]
